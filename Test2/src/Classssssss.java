@@ -1,5 +1,5 @@
 
 public class Classssssss {
-///hellohhn/
+///hellohhn/x
 	int x;
 }
